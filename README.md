@@ -5,7 +5,7 @@
 * MySql
 
 ## To run the website
-  $ mvn package
-  $ sh target/bin/webapp
+* $ mvn package
+* $ sh target/bin/webapp
 
-  go to localhost:8080/
+* go to localhost:8080/
